@@ -1,0 +1,19 @@
+2026-03-05 09:20:11 | CONFIG | Loaded: port=8080, allowed_ips=[], retention=60m
+2026-03-05 09:20:11 | STARTUP | Enabled (registry key set)
+2026-03-05 09:20:11 | CONFIG | Loaded: port=8080, allowed_ips=[], retention=60m
+2026-03-05 09:20:11 | SERVER | Listening on port 8080
+2026-03-05 09:23:46 | ALLOW | 127.0.0.1 | GET dealthunder.ca:80/
+2026-03-05 09:23:46 | ALLOW | 127.0.0.1 | CONNECT dealthunder.ca:80dealthunder.ca:443
+2026-03-05 09:24:52 | SERVER | Shutting down
+2026-03-05 09:26:22 | CONFIG | Loaded: port=8080, allowed_ips=[], retention=60m
+2026-03-05 09:26:22 | CONFIG | Loaded: port=8080, allowed_ips=[], retention=60m
+2026-03-05 09:26:22 | SERVER | Listening on port 8080
+2026-03-05 09:26:25 | DENY  | 127.0.0.1 | CONNECT rejected (HTTP only)
+2026-03-05 09:26:35 | ALLOW | 127.0.0.1 | GET dealthunder.ca:80/
+2026-03-05 09:27:09 | SERVER | Shutting down
+2026-03-05 09:27:16 | CONFIG | Loaded: port=8080, allowed_ips=[], retention=60m
+2026-03-05 09:27:16 | CONFIG | Loaded: port=8080, allowed_ips=[], retention=60m
+2026-03-05 09:27:16 | SERVER | Listening on port 8080
+2026-03-05 09:27:19 | ALLOW | 127.0.0.1 | GET dealthunder.ca:80/
+2026-03-05 09:27:22 | ALLOW | 127.0.0.1 | CONNECT dealthunder.ca:443
+2026-03-05 09:27:52 | SERVER | Shutting down
